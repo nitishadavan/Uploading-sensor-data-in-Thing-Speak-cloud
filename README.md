@@ -1,7 +1,7 @@
 ### NAME: D.Nitish Adavan
 ### REG NO: 24901049
 
-# Uploading temperature sensor data in Thing Speak cloud
+#Expirment-3- Monitoring temperature sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the temperature sensor data in the Thing speak using an ESP32 controller.
